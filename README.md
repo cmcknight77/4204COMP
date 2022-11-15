@@ -1,2 +1,2 @@
 # 4204COMP
-2 CW entries for 4204COMP "Data Modelling"
+CW entry for 4204COMP "Data Modelling"
